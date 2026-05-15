@@ -2,7 +2,7 @@
   <img src="banner.png?v=2" width="100%" alt="Rishi's Profile Banner" />
 </p>
 
-# Hi, I'm Rishi 👋
+# Hi, I'm Rishi 
 
 ### Strategic Data Specialist | AI-Enhanced Analytics | Full-Stack Systems
 
@@ -12,13 +12,13 @@ I specialize in bridging the gap between complex data sets and actionable busine
 
 ### 🛠 Core Competencies
 
-- **📊 Data Analysis & BI:** TSQL, Power BI, Advanced Data Modeling, Predictive Analytics
-- **🤖 AI & Automation:** Python-driven Analytics (Pandas, yFinance), AI-Assisted Development, Workflow Optimization
-- **💻 Technical Engineering:** TypeScript, Node.js, Performance Testing, Systems Architecture
+- ** Data Analysis & BI:** TSQL, Power BI, Advanced Data Modeling, Predictive Analytics
+- ** AI & Automation:** Python-driven Analytics (Pandas, yFinance), AI-Assisted Development, Workflow Optimization
+- ** Technical Engineering:** TypeScript, Node.js, Performance Testing, Systems Architecture
 
 ---
 
-### 🚀 Featured Insights & Projects
+###  Featured Insights & Projects
 
 #### [Atlas Stock Analyzer: Market Intelligence](https://github.com/RishiP44/Atlas-Stock-Analyzer)
 *Financial Data Science & Automated Insights*
