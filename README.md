@@ -12,9 +12,9 @@ I specialize in bridging the gap between complex data sets and actionable busine
 
 ### 🛠 Core Competencies
 
-- ** Data Analysis & BI:** TSQL, Power BI, Advanced Data Modeling, Predictive Analytics
-- ** AI & Automation:** Python-driven Analytics (Pandas, yFinance), AI-Assisted Development, Workflow Optimization
-- ** Technical Engineering:** TypeScript, Node.js, Performance Testing, Systems Architecture
+- Data Analysis & BI: TSQL, Power BI, Advanced Data Modeling, Predictive Analytics
+- AI & Automation: Python-driven Analytics (Pandas, yFinance), AI-Assisted Development, Workflow Optimization
+- Technical Engineering: TypeScript, Node.js, Performance Testing, Systems Architecture
 
 ---
 
