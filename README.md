@@ -39,21 +39,20 @@ I specialize in bridging the gap between complex data sets and actionable busine
 
 ---
 
----
 
 ### 📈 GitHub Ecosystem
 
 <p align="left">
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RishiP44&show_icons=true&theme=transparent" alt="Rishi's Stats" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiP44&layout=compact&theme=transparent" alt="Top Languages" />
+  <!-- Profile Summary (The one currently working) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RishiP44&theme=tokyonight" alt="Rishi's Profile Stats" />
 </p>
 
-<!-- Alternative if the above are still acting up -->
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RishiP44&theme=tokyonight" alt="Profile Details" />
+  <!-- Most Used Languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=RishiP44&theme=tokyonight" alt="Top Languages" />
+  
+  <!-- Stats Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RishiP44&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
