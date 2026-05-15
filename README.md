@@ -58,5 +58,5 @@ I specialize in bridging the gap between complex data sets and actionable busine
 ---
 
 ### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_HERE)
+- [LinkedIn](https://www.linkedin.com/in/rishi-patel-921540234/)
 - [Portfolio Repo](https://github.com/RishiP44/RishiP44)
