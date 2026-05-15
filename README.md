@@ -39,17 +39,18 @@ I specialize in bridging the gap between complex data sets and actionable busine
 
 ---
 
+---
 
 ### 📈 GitHub Ecosystem
 
 <p align="left">
-  <!-- Profile Summary (The one currently working) -->
+  <!-- Profile Summary -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RishiP44&theme=tokyonight" alt="Rishi's Profile Stats" />
 </p>
 
 <p align="left">
-  <!-- Most Used Languages -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=RishiP44&theme=tokyonight" alt="Top Languages" />
+  <!-- Top Languages (Corrected Link) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RishiP44&theme=tokyonight" alt="Top Languages" />
   
   <!-- Stats Summary -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RishiP44&theme=tokyonight" alt="GitHub Stats" />
